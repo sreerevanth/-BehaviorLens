@@ -249,12 +249,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 💬 Support
-
-- 📧 Email: support@behaviorlens.io  
-- 📖 Docs: [docs.behaviorlens.io](https://docs.behaviorlens.io)  
-- 🐛 Issues: [GitHub Issues](https://github.com/your-org/behaviorlens/issues)
-
----
-
-<p align="center">Built with ❤️ by the BehaviorLens Team</p>
